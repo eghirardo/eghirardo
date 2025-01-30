@@ -1,5 +1,5 @@
 ## Welcome!
-I am Edoardo, final year student of Mathematical and Computing Sciences at Bocconi.
+I am Edoardo, final year student of Mathematical and Computing Sciences @ Bocconi.
 About me:
 - currently research assistant @ Bocconi Department of Finance, supervised by prof. Claudio Tebaldi (trying to create asset embeddings which capture risk profiles from time-series data)
 - formerly front office tech platforms and quant strats intern @ BNP Paribas in London
