@@ -3,11 +3,6 @@ I am Edoardo, passionate about randomness, complexity, and how these can model r
 
 I am in my final year of the BSc in Mathematical and Computing Sciences for Artificial Intelligence @ Bocconi. Next fall, I'll start Princeton's Master in Finance.
 
-## My experiences:
-- Quant trading intern @ SIG in Dublin (summer 2025)
-- Research assistant @ Bocconi Department of Finance, supervised by prof. Claudio Tebaldi (late 2024 - early 2025)
-- In 2024, I was quant strats intern @ BNP Paribas in London (summer 2024)
-
 ## Selected projects:
 - [Finding Optimal Strategies for Repeated Prisoner's Dilemma with Genetic Algorithms](https://github.com/eghirardo/genetic-prisoners-dilemma).
   - Individual final project for my _Topics in Computational Modelling_ class.
