@@ -1,5 +1,5 @@
 ## Welcome!
-I am Edoardo, passionate about randomness, complexity, and how these can model real life situations, especially in financial markets.
+I am Edoardo, passionate about randomness, complexity, and how these can model human behaviour in real life situations, especially in financial markets.
 
 I am in my final year of the BSc in Mathematical and Computing Sciences for Artificial Intelligence @ Bocconi. Next fall, I'll start Princeton's Master in Finance.
 
