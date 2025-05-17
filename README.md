@@ -4,10 +4,10 @@ I am Edoardo, passionate about randomness, complexity, and how these can model r
 I am in my final year of the BSc in Mathematical and Computing Sciences for Artificial Intelligence @ Bocconi. Next fall, I'll start Princeton's Master in Finance.
 
 ## Selected projects:
-- [Finding Optimal Strategies for Repeated Prisoner's Dilemma with Genetic Algorithms](https://github.com/eghirardo/genetic-prisoners-dilemma).
+- [Finding Optimal Strategies for Repeated Prisoner's Dilemma with Genetic Algorithms](https://github.com/eghirardo/genetic-prisoners-dilemma)
   - Individual final project for my _Topics in Computational Modelling_ class.
   - __Highlights__: played around with Python's `multiprocessing` module to exploit parallel computation to run multuple instances of the genetic algorithm at once (island migration model).
-- [Statistical Physics Approaches to Financial Market Dynamics](https://github.com/eghirardo/ising-markets).
+- [Statistical Physics Approaches to Financial Market Dynamics](https://github.com/eghirardo/ising-markets)
   - Final thesis for my BSc.
   - __Highlights__: analysed a model of financial markets both analytically (with tools from Statistical Mechanics) and with simulations (implemented a $n$-dimensional lattice ising model simulation, with arbitrary $n$ and heat-bath updates).
 - [Neural Responses to Visual Stimuli: The Role of Temporal Frequency, Spatial Frequency, and Orientation](https://github.com/FilippoRonzino/mathematical-modelling-for-neuroscience)
